@@ -1,0 +1,2 @@
+Este é o arquivo criado para a tarefa de Introdução ao Git e GitHub.
+Ele contém algum texto dentro dele como solicitado.
